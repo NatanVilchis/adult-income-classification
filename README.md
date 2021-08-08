@@ -34,14 +34,16 @@ To test new models you can reuse the randomForest.py template or decisionTree.py
 
 ## Final results
 ### Random Forest
-Accuracy (cross-validation:
-0.91
+Accuracy (cross-validation: 0.91
+
 Accuraccy XtrainS:  0.93
+
 Accuraccy XtestS:  0.90
 
 ### Decision Tree
-Accuracy (cross-validation:
-0.87
+Accuracy (cross-validation: 0.87
+
 Accuraccy XtrainS:  0.91
+
 Accuraccy XtestS:  0.89
 
